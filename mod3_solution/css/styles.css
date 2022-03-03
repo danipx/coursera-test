@@ -34,13 +34,11 @@ ul {
   border: 0;
 }
 
-p.text-title {
-  text-align: center;
-  font-size: 1.5em;
+h3 {
+  padding: 10px;
 }
-
 p {
-  padding: 15px;
+  padding: 20px;
 }
 
 .content {
